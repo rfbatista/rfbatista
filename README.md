@@ -32,5 +32,5 @@ Here are some ideas to get you started:
 <img src="https://renanbatista.dev/static/media/selenium.a00407a2.svg" alt="Selenium" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-![](https://visitor-badge.laobi.icu/badge?page_id=RenanBatista.RenanBatista)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanBatista&theme=tokyonight)
 
