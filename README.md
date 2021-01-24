@@ -12,3 +12,8 @@ Here are some ideas to get you started:
 - 💬 Me chame pra conversar sobre desenvolvimento ou só pra bater um papo
 - 📫 Pra entrar em contato: renfbatista@gmail.com
 
+## 🧰 Linguagens e ferramentas:
+<p align="center">
+<img src="https://renanbatista.dev/static/media/react-original.7098e271.svg" alt="React" height="40" style="vertical-align:top; margin:4px">
+
+</p>
