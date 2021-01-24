@@ -30,5 +30,7 @@ Here are some ideas to get you started:
 <img src="https://renanbatista.dev/static/media/python-original.97a72db0.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://renanbatista.dev/static/media/dart.9ff1e671.svg" alt="Dart" height="40" style="vertical-align:top; margin:4px">
 <img src="https://renanbatista.dev/static/media/selenium.a00407a2.svg" alt="Selenium" height="40" style="vertical-align:top; margin:4px">
-
 </p>
+
+![](https://visitor-badge.laobi.icu/badge?page_id=RenanBatista.RenanBatista)
+
