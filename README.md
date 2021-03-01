@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
  RenanBatista/README.md
 
-- 🔭 Trabalhando na @kgenbr
+- 🔭 Procurando novos desafios
 - 🌱 Atualmente estou aprendendo a construir microserviços e arquiteturas mais eficientes
 - 💬 Me chame pra conversar sobre desenvolvimento ou só pra bater um papo
 - 📫 Pra entrar em contato: renfbatista@gmail.com
