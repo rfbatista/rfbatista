@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 <p align="center">
 <img src="https://renanbatista.dev/static/media/react-original.7098e271.svg" alt="React" height="40" style="vertical-align:top; margin:4px">
 <img src="https://renanbatista.dev/static/media/redux-original.0093fdee.svg" alt="Redux" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" alt="Typescript" height="40" style="vertical-align:top; margin:4px">
 
 <img src="https://renanbatista.dev/static/media/sass-original.8ec16938.svg" alt="Sass" height="40" style="vertical-align:top; margin:4px">
 <img src="https://renanbatista.dev/static/media/express-original.415f9b1f.svg" alt="Express" height="40" style="vertical-align:top; margin:4px">
