@@ -7,9 +7,8 @@ Here are some ideas to get you started:
 -->
  RenanBatista/README.md
 
-- 🔭 Procurando novos desafios
+- :construction_worker: Trabalhando na @chatclass e em side projects na @nomad
 - 🌱 Atualmente estou aprendendo Elixir e AWS Services
-- 💬 Me chame pra conversar sobre desenvolvimento ou só pra bater um papo
 - 📫 Pra entrar em contato: renfbatista@gmail.com
 
 🧰 Linguagens:
