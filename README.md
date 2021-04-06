@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🌱 Learning Elixir and AWS Services
 - 📫 To contact me: renfbatista@gmail.com
 
-🧰 Linguagens:
+🧰 Programming languages:
 <p>
 <img src="https://renanbatista.dev/static/media/javascript-original.f719efab.svg" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://renanbatista.dev/static/media/python-original.97a72db0.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
