@@ -1,4 +1,4 @@
-### Opa! 👋
+### Hello! 👋
 
 <!--
 **RenanBatista/RenanBatista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -7,9 +7,9 @@ Here are some ideas to get you started:
 -->
  RenanBatista/README.md
 
-- :construction_worker: Trabalhando na @chatclass e em side projects na @nomad
-- 🌱 Atualmente estou aprendendo Elixir e AWS Services
-- 📫 Pra entrar em contato: renfbatista@gmail.com
+- :construction_worker: Working in @chatclass and side projects at @nomad
+- 🌱 Learning Elixir and AWS Services
+- 📫 To contact me: renfbatista@gmail.com
 
 🧰 Linguagens:
 <p>
