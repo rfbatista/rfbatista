@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 <img src="https://renanbatista.dev/static/media/c-original.ac1d78d7.svg" alt="C" height="40" style="vertical-align:top; margin:4px">
 <img src="https://renanbatista.dev/static/media/cplusplus-original.d0813025.svg" alt="C++" height="40" style="vertical-align:top; margin:4px">
 </p> 
-### Learning
+
+#### Learning
+
 <p>
 <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
 <img src="https://blog.golang.org/lib/godoc/images/go-logo-blue.svg" alt="go" height="40" style="vertical-align:top; margin:4px">
