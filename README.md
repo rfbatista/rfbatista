@@ -24,9 +24,7 @@ Here are some ideas to get you started:
 #### Learning
 
 <p>
-<img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
-<img src="https://blog.golang.org/lib/godoc/images/go-logo-blue.svg" alt="go" height="40" style="vertical-align:top; margin:4px">
-<img src="https://elixir-lang.org/images/logo/logo.png" alt="elixir" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1024px-Rust_programming_language_black_logo.svg.png" alt="Rust" height="40" style="vertical-align:top; margin:4px">
 </p>
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanBatista&theme=buefy)
