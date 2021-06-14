@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 #### Known languages
 <p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="Typescript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://renanbatista.dev/static/media/python-original.97a72db0.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://renanbatista.dev/static/media/c-original.ac1d78d7.svg" alt="C" height="40" style="vertical-align:top; margin:4px">
-<img src="https://renanbatista.dev/static/media/cplusplus-original.d0813025.svg" alt="C++" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" alt="C++" height="40" style="vertical-align:top; margin:4px">
 </p> 
 
 #### Learning
