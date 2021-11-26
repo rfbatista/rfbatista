@@ -8,7 +8,7 @@ Here are some ideas to get you started:
  RenanBatista/README.md
 
 - :construction_worker: Working in @chatclass
-- 🌱 Learning Kotlin and DDD 
+- 🌱 Learning Elixir and DDD 
 - 📫 To contact me: renfbatista@gmail.com
 
 <!--
