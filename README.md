@@ -6,6 +6,7 @@
 Here are some ideas to get you started:
 -->
  RenanBatista/README.md
+ Hello, my name is Renan, I am a backend developer. Beside loving to create backend systems, I really like to work with natural language processing. 
 
 - :construction_worker: Working in @chatclass
 - 🌱 Learning Elixir and DDD 
