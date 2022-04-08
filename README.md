@@ -1,5 +1,4 @@
 ### Hello! 👋
-![](https://komarev.com/ghpvc/?username=rfbatista)
 <!--
 **RenanBatista/RenanBatista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
