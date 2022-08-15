@@ -4,10 +4,10 @@
 
 Here are some ideas to get you started:
 -->
- Hello, my name is Renan, I am software engineer. 
+ Hello, my name is Renan, I am software engineer. I like to work with networking, operating systems and I do some exploration in artifical intelligence with a focus on NLP
 
 - :construction_worker: Working in @chatclass
-- 🌱 Learning Go
+- 🌱 Learning Go, GCP and Terraforms
 - 📫 To contact me: renfbatista@gmail.com
 
 <!--
