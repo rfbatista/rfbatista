@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 🌱 Learning Go, GCP and Terraforms
 - 📫 To contact me: renfbatista@gmail.com
 
-[12 factor app](https://12factor.net/)
-[SOLID](https://github.com/nahidulhasan/solid-principles)
+[12 factor app](https://12factor.net/)\n
+[SOLID](https://github.com/nahidulhasan/solid-principles)\n
 [DDD](https://github.com/ddd-crew/ddd-starter-modelling-process)
