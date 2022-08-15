@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 Learning Go, GCP and Terraforms
 - 📫 To contact me: renfbatista@gmail.com
 
-Principle
+Principles for good software
 - [12 factor app](https://12factor.net/)
-- [SOLID](https://github.com/nahidulhasan/solid-principles)\n
+- [SOLID](https://github.com/nahidulhasan/solid-principles)
 - [DDD](https://github.com/ddd-crew/ddd-starter-modelling-process)
