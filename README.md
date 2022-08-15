@@ -10,5 +10,6 @@ Here are some ideas to get you started:
 - 🌱 Learning Go, GCP and Terraforms
 - 📫 To contact me: renfbatista@gmail.com
 
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanBatista&theme=buefy)
-
+[12 factor app](https://12factor.net/)
+[SOLID](https://github.com/nahidulhasan/solid-principles)
+[DDD](https://github.com/ddd-crew/ddd-starter-modelling-process)
