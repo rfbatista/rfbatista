@@ -13,5 +13,6 @@ Here are some ideas to get you started:
 Principles for good software
 - [12 factor app](https://12factor.net/)
 - [SOLID](https://github.com/nahidulhasan/solid-principles)
+   - [An illustrated guide to 12 factor app](https://www.redhat.com/architect/12-factor-app)
 - [DDD](https://github.com/ddd-crew/ddd-starter-modelling-process)
    - [Awesome DDD](https://github.com/heynickc/awesome-ddd)
