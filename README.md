@@ -16,6 +16,5 @@ Principles for good software
    - [An illustrated guide to 12 factor app](https://www.redhat.com/architect/12-factor-app)
 - [DDD](https://github.com/ddd-crew/ddd-starter-modelling-process)
    - [Awesome DDD](https://github.com/heynickc/awesome-ddd)
-- Open Api
-   - [Tools](https://openapi.tools/#auto-generators)
+- [Open Api Tools](https://openapi.tools/#auto-generators)
 - https://github.com/Sairyss/backend-best-practices
