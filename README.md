@@ -7,7 +7,6 @@ Here are some ideas to get you started:
 - 👋 Hello, my name is Renan
 - 👀 I'm a Software Engineer with experience in Python, NodeJs, Go and C++, and I am open to work with various languages.
 -   🫶🏻 I am particularly interested in systems that use NLP to solve problems.
-- 🌱 I have fundamental knowledge in Machine Learning, mainly in the area of ​​NLP.
 - 🎯 I always seek new knowledge and create a positive environment where I am.
 - 🔥 I am dedicated to achieving the success of the products and projects in which I participate, to guarantee a robust system and satisfied customers.
 - 👩‍💻 You can contact me for any collaberation, questions or software development projects.
