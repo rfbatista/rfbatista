@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 👀 I'm a Software Engineer with experience in Python, NodeJs, Go, Java and C++, and I am open to work with various languages.
 - 🎯 I always seek new knowledge and create a positive environment where I am.
 - 🔥 I am dedicated to achieving the success of the products and projects in which I participate, to guarantee a robust system and satisfied customers.
-- 👩‍💻 You can contact me for any collaberation, questions or software development projects.
+- 👩‍💻 You can contact me for any collaboration, questions or software development projects.
 
 - :construction_worker: Working in Education Journey
 - 📫 To contact me: renfbatista@gmail.com / https://www.linkedin.com/in/renanbatista
