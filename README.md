@@ -9,8 +9,6 @@ Here are some ideas to get you started:
 - 🎯 I always seek new knowledge and create a positive environment where I am.
 - 🔥 I am dedicated to achieving the success of the products and projects in which I participate, to guarantee a robust system and satisfied customers.
 - 👩‍💻 You can contact me for any collaboration, questions or software development projects.
-
-- :construction_worker: Working in Education Journey
 - 📫 To contact me: renfbatista@gmail.com / https://www.linkedin.com/in/renanbatista
 
 Principles for good software
