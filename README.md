@@ -1,15 +1,9 @@
 ### Hello! 👋
-<!--
-**RenanBatista/RenanBatista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
--->
-- 👋 Hello, my name is Renan
-- 👀 I'm a Software Engineer with experience in Python, Javascript/Typescript, Go and C++, and I am open to work with various languages.
-- 🎯 I always seek new knowledge and create a positive environment where I am.
-- 🔥 I am dedicated to achieving the success of the products and projects in which I participate, to guarantee a robust system and satisfied customers.
-- 👩‍💻 You can contact me for any collaboration, questions or software development projects.
-- 📫 To contact me: renfbatista@gmail.com / https://www.linkedin.com/in/renanbatista
+- 👋 Hello, my name is Renan I'm a Software Engineer from Brazil
+  
+- [GoHydrate](https://github.com/rfbatista/gohydrate) - A server side rendering lib for react using go
+- [ApiTools](https://github.com/rfbatista/apitools) - A wrapper around echo to help with automatic documentation and modularization
 
 Principles for good software
 - [12 factor app](https://12factor.net/)
