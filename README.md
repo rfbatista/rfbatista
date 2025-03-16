@@ -1,6 +1,6 @@
 # Renan Batista Profile
 
-I am a software engineer, interested in Distributed Systems, Machine Learning Systems, Computer Architecture. I code in Python, Go, C++, and Rust.
+I am a software engineer, interested in Distributed Systems, Machine Learning Systems, Computer Architecture. I code in Python, Go, C++.
   
 - [GoHydrate](https://github.com/rfbatista/gohydrate) - A server side rendering lib for react using go
 - [ApiTools](https://github.com/rfbatista/apitools) - A wrapper around echo to help with automatic documentation with OpenAPI
