@@ -1,3 +1,3 @@
 # Renan Batista Profile
 
-I am a software engineer, interested in Distributed Systems, Machine Learning Systems, Computer Architecture.
+I am a software engineer, interested in distributed systems, machine learning and Computer Architecture.
